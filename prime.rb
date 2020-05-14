@@ -1,3 +1,5 @@
+#cloned
+
 def prime?(num)
   range = (2...num).to_a
   if num < 2
